@@ -1,0 +1,4 @@
+MintFriend
+==========
+
+Money distribution
